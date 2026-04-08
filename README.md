@@ -1,12 +1,12 @@
 # Ross Lohrisch
 
-**Analytics • Visual Analytics • Systems Thinking**
+**Analytics • Systems Thinking • Data Visualization**
 
-I’m an engineer completing an M.S. in Analytics at Georgia Tech, with a background in systems engineering, test and performance analysis, and frontend development. I’m especially interested in **visual analytics** — using data and design together to make complex information understandable and useful.
+I’m an engineer completing an M.S. in Analytics at Georgia Tech, with a background in systems engineering and frontend development. I’m especially interested in using data and design together to make complex information understandable and useful.
 
 ## What I do
 
-- Analyze operational, test, and system-performance data
+- Analyze operational and system-performance data
 - Build dashboards and visual narratives that highlight what matters
 - Turn messy technical data into clear recommendations
 - Work across technical and operational teams to solve real problems
@@ -16,9 +16,9 @@ I’m an engineer completing an M.S. in Analytics at Georgia Tech, with a backgr
 My experience includes:
 
 - systems engineering
-- technical performance analysis
-- testing and validation
-- user-facing frontend work
+- performance analysis
+- frontend development
+- working with technical data in complex environments
 
 That mix has shaped how I think about analytics: not just as computation, but as communication and judgment.
 

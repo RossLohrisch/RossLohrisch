@@ -7,20 +7,9 @@ I’m an engineer completing an M.S. in Analytics at Georgia Tech, with a backgr
 ## What I do
 
 - Analyze operational, test, and system-performance data
-- Build visual narratives and dashboards that help people make decisions
+- Build visual narratives and dashboards that help people understand what matters
 - Turn messy technical data into clear recommendations
 - Work across technical and operational teams to solve real problems
-
-## What I’m looking for
-
-I’m interested in analytics roles that combine:
-
-- data analysis
-- visual analytics
-- engineering or operations
-- decision support
-
-The work I enjoy most is the kind that helps people see what is happening, understand why it matters, and act on it.
 
 ## Background
 
@@ -44,7 +33,7 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux CLI
 - designing clearer decisions
 - bridging technical depth with practical impact
 
-## Let’s connect
+## Contact
 
 - LinkedIn: linkedin.com/in/rosslohrisch
 - GitHub: github.com/RossLohrisch

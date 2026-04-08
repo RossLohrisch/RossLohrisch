@@ -1,39 +1,48 @@
-# Ross Lohrisch
+# Analytics with taste. Systems with context. Data that people can actually use.
 
-**Analytics • Systems Thinking • Data Visualization**
+I’m Ross — an engineer with a background in systems engineering, frontend development, and analytics, currently completing an M.S. in Analytics at Georgia Tech.
 
-I’m an engineer completing an M.S. in Analytics at Georgia Tech, with a background in systems engineering and frontend development. I’m especially interested in using data and design together to make complex information understandable and useful.
+I like the work that sits between technical depth and human clarity: turning messy operational data into something useful, building dashboards that reveal what matters, and helping teams make better decisions without drowning in noise.
 
-## What I do
+## What I tend to do well
 
-- Analyze operational and system-performance data
-- Build dashboards and visual narratives that highlight what matters
-- Turn messy technical data into clear recommendations
-- Work across technical and operational teams to solve real problems
+- make complex data legible
+- spot patterns that are easy to miss
+- build visual tools that help people think
+- translate technical detail into practical judgment
 
 ## Background
 
-My experience includes:
+I’ve worked across systems engineering, performance analysis, frontend development, and technical data environments, which shaped the way I approach analytics: not just as computation, but as communication.
 
-- systems engineering
-- performance analysis
-- frontend development
-- working with technical data in complex environments
+## Tools I use often
 
-That mix has shaped how I think about analytics: not just as computation, but as communication and judgment.
+Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
 
-## Core tools
+## Featured Projects
 
-`Python` `SQL` `R` `Tableau` `Git` `MATLAB` `Linux CLI`
+### Project Name
+Short description of the project and why it matters.
 
-## Themes I care about
+- Built with: Python, SQL, Tableau
+- Impact: Add the result or outcome here
+- Repo: [link](https://github.com/RossLohrisch)
 
-- making complex data legible
-- identifying patterns that matter
-- designing clearer decisions
-- bridging technical depth with practical impact
+### Project Name
+Short description of a second project.
+
+- Built with: React, D3, APIs
+- Impact: Add the result or outcome here
+- Repo: [link](https://github.com/RossLohrisch)
+
+### Project Name
+Short description of a third project.
+
+- Built with: Python, R, data visualization
+- Impact: Add the result or outcome here
+- Repo: [link](https://github.com/RossLohrisch)
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/rosslohrisch
-- GitHub: github.com/RossLohrisch
+- LinkedIn: [linkedin.com/in/rosslohrisch](https://linkedin.com/in/rosslohrisch)
+- GitHub: [github.com/RossLohrisch](https://github.com/RossLohrisch)

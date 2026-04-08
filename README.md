@@ -1,19 +1,19 @@
-# Analytics with taste. Systems with context. Data that people can actually use.
+# Ross Lohrisch
 
-I’m Ross — an engineer with a background in systems engineering, frontend development, and analytics, currently completing an M.S. in Analytics at Georgia Tech.
+I’m an engineer with a background in systems engineering, frontend development, and analytics, currently completing an M.S. in Analytics at Georgia Tech.
 
-I like the work that sits between technical depth and human clarity: turning messy operational data into something useful, building dashboards that reveal what matters, and helping teams make better decisions without drowning in noise.
+I’m interested in work that makes complex information easier to understand and use — especially when it involves data, dashboards, or operational systems.
 
-## What I tend to do well
+## What I work on
 
-- make complex data legible
-- spot patterns that are easy to miss
-- build visual tools that help people think
-- translate technical detail into practical judgment
+- analyzing operational and system-performance data
+- building dashboards and visual summaries
+- turning messy technical data into clear recommendations
+- working across technical and operational teams
 
 ## Background
 
-I’ve worked across systems engineering, performance analysis, frontend development, and technical data environments, which shaped the way I approach analytics: not just as computation, but as communication.
+My experience includes systems engineering, performance analysis, frontend development, and working with technical data in complex environments.
 
 ## Tools I use often
 

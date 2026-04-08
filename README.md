@@ -4,22 +4,22 @@ I’m an engineer with a background in systems engineering, frontend development
 
 I’m interested in work that makes complex information easier to understand and use — especially when it involves data, dashboards, or operational systems.
 
-## What I work on
+## 🧭 What I work on
 
 - analyzing operational and system-performance data
 - building dashboards and visual summaries
 - turning messy technical data into clear recommendations
 - working across technical and operational teams
 
-## Background
+## 🛠️ Background
 
 My experience includes systems engineering, performance analysis, frontend development, and working with technical data in complex environments.
 
-## Tools I use often
+## 📦 Tools I use often
 
 Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
 
-## Featured Projects
+## 🧪 Featured Projects
 
 ### Project Name
 Short description of the project and why it matters.
@@ -42,7 +42,7 @@ Short description of a third project.
 - Impact: Add the result or outcome here
 - Repo: [link](https://github.com/RossLohrisch)
 
-## Contact
+## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/rosslohrisch](https://linkedin.com/in/rosslohrisch)
 - GitHub: [github.com/RossLohrisch](https://github.com/RossLohrisch)

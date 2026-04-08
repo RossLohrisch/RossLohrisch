@@ -28,20 +28,6 @@ Short description of the project and why it matters.
 - Impact: Add the result or outcome here
 - Repo: [link](https://github.com/RossLohrisch)
 
-### Project Name
-Short description of a second project.
-
-- Built with: React, D3, APIs
-- Impact: Add the result or outcome here
-- Repo: [link](https://github.com/RossLohrisch)
-
-### Project Name
-Short description of a third project.
-
-- Built with: Python, R, data visualization
-- Impact: Add the result or outcome here
-- Repo: [link](https://github.com/RossLohrisch)
-
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/rosslohrisch](https://linkedin.com/in/rosslohrisch)

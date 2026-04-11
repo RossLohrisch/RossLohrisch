@@ -15,11 +15,11 @@ I’m interested in work that makes complex information easier to understand and
 
 My experience includes systems engineering, performance analysis, frontend development, and working with technical data in complex environments.
 
-## 📦 Tools I use often
+## 🧰 Tools I use often
 
 Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
 
-## 🧪 Featured Projects
+## ✨ Featured Projects
 
 ### NYC 311 Data Quality Dashboard
 An interactive Streamlit dashboard that turns NYC 311 service requests into a clean, readable project.

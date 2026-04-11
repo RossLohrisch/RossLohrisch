@@ -32,7 +32,7 @@ An interactive Streamlit dashboard that turns NYC 311 service requests into a cl
 <table>
   <tr>
     <td width="180">
-      <img src="https://via.placeholder.com/160x100.png?text=NYC+311+Dashboard" alt="NYC 311 Dashboard preview" />
+      <img src="NYC_311_logo.png" alt="NYC 311 Dashboard preview" width="160" />
     </td>
     <td>
       <h3>NYC 311 Data Quality Dashboard</h3>

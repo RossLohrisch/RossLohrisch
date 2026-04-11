@@ -47,8 +47,3 @@ An interactive Streamlit dashboard that turns NYC 311 service requests into a cl
     </td>
   </tr>
 </table>
-
-## 📫 Contact
-
-- LinkedIn: [linkedin.com/in/rosslohrisch](https://linkedin.com/in/rosslohrisch)
-- GitHub: [github.com/RossLohrisch](https://github.com/RossLohrisch)

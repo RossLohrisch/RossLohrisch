@@ -2,7 +2,7 @@
 
 I’m an engineer with a background in systems engineering, frontend development, and analytics, currently completing an M.S. in Analytics at Georgia Tech.
 
-I’m interested in work that makes complex information easier to understand and use — especially when it involves data, dashboards, or operational systems.
+I’m interested in work that makes complex information easier to understand and use, especially when it involves data, dashboards, or operational systems.
 
 ## 🧭 What I work on
 

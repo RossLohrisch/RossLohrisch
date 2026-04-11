@@ -27,6 +27,27 @@ An interactive Streamlit dashboard that turns NYC 311 service requests into a cl
 - GitHub: https://github.com/RossLohrisch/nyc-311-dashboard
 - Live demo: https://nyc-311-dashboard-6agf3rq3kcnd3dhbnx2hwf.streamlit.app/
 
+## Featured Project
+
+<table>
+  <tr>
+    <td width="180">
+      <img src="https://via.placeholder.com/160x100.png?text=NYC+311+Dashboard" alt="NYC 311 Dashboard preview" />
+    </td>
+    <td>
+      <h3>NYC 311 Data Quality Dashboard</h3>
+      <p>
+        An interactive Streamlit dashboard that makes NYC 311 service requests easier to explore,
+        understand, and trust.
+      </p>
+      <p>
+        <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ·
+        <a href="YOUR_STREAMLIT_LINK_HERE">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/rosslohrisch](https://linkedin.com/in/rosslohrisch)

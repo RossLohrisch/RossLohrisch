@@ -42,7 +42,7 @@ An interactive Streamlit dashboard that turns NYC 311 service requests into a cl
       </p>
       <p>
         <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ·
-        <a href="YOUR_STREAMLIT_LINK_HERE">Live Demo</a>
+        <a href="https://nyc-311-dashboard-6agf3rq3kcnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
       </p>
     </td>
   </tr>

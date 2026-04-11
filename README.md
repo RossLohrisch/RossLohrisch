@@ -21,12 +21,11 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
 
 ## 🧪 Featured Projects
 
-### Project Name
-Short description of the project and why it matters.
+### NYC 311 Data Quality Dashboard
+An interactive Streamlit dashboard that turns NYC 311 service requests into a clean, readable project.
 
-- Built with: Python, SQL, Tableau
-- Impact: Add the result or outcome here
-- Repo: [link](https://github.com/RossLohrisch)
+- GitHub: https://github.com/RossLohrisch/nyc-311-dashboard
+- Live demo: https://nyc-311-dashboard-6agf3rq3kcnd3dhbnx2hwf.streamlit.app/
 
 ## 📫 Contact
 

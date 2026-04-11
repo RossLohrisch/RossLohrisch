@@ -41,7 +41,7 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
 
  <tr>
  <td width="180">
- <img src="featured-project-placeholder.png" alt="Predictive Modeling of Repeat Offenses preview" width="160" />
+ <img src="prison.png" alt="Breaking the Cycle Preview" width="160" />
  </td>
  <td>
  <h3>Predictive Modeling of Repeat Offenses</h3>

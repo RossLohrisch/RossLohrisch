@@ -24,7 +24,7 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
 <table>
  <tr>
  <td width="180">
- <img src="NYC_311_logo.png" alt="NYC 311 Dashboard preview" width="160" />
+ <img src="NYC_311_logo_2.png" alt="NYC 311 Dashboard preview" width="160" />
  </td>
  <td>
  <h3>NYC 311 Data Quality Dashboard</h3>

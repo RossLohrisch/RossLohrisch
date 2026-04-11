@@ -46,14 +46,10 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
  <td>
  <h3>Predictive Modeling of Repeat Offenses</h3>
  <p>
- A statistical modeling project focused on recidivism, using historical corrections data to
- explore how prior convictions, sentence length, age at release, and related factors influence
- repeat offending.
+ A statistical modeling project focused on recidivism, using historical corrections data to explore how prior convictions, sentence length, age at release, and related factors influence repeat offending while combining policy context with data analysis to evaluate how predictive models can support rehabilitation and reentry decisions.
  </p>
  <p>
- Combined policy context with data analysis to evaluate how predictive models can support
- rehabilitation and reentry decisions.
+ <a href="YOUR_REPORT_LINK_HERE">Project Report</a>
  </p>
  </td>
- </tr>
-</table
+</tr>

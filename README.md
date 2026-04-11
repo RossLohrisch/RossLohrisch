@@ -22,20 +22,38 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
 ## ✨ Featured Projects
 
 <table>
-  <tr>
-    <td width="180">
-      <img src="NYC_311_logo.png" alt="NYC 311 Dashboard preview" width="160" />
-    </td>
-    <td>
-      <h3>NYC 311 Data Quality Dashboard</h3>
-      <p>
-        An interactive Streamlit dashboard that makes NYC 311 service requests easier to explore,
-        understand, and trust.
-      </p>
-      <p>
-        <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ·
-        <a href="https://nyc-311-dashboard-6agf3rq3kcnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+ <tr>
+ <td width="180">
+ <img src="NYC_311_logo.png" alt="NYC 311 Dashboard preview" width="160" />
+ </td>
+ <td>
+ <h3>NYC 311 Data Quality Dashboard</h3>
+ <p>
+ An interactive Streamlit dashboard that makes NYC 311 service requests easier to explore,
+ understand, and trust.
+ </p>
+ <p>
+ <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ·
+ <a href="https://nyc-311-dashboard-6agf3rq3kcnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
+ </p>
+ </td>
+ </tr>
+
+ <tr>
+ <td width="180">
+ <img src="featured-project-placeholder.png" alt="Predictive Modeling of Repeat Offenses preview" width="160" />
+ </td>
+ <td>
+ <h3>Predictive Modeling of Repeat Offenses</h3>
+ <p>
+ A statistical modeling project focused on recidivism, using historical corrections data to
+ explore how prior convictions, sentence length, age at release, and related factors influence
+ repeat offending.
+ </p>
+ <p>
+ Combined policy context with data analysis to evaluate how predictive models can support
+ rehabilitation and reentry decisions.
+ </p>
+ </td>
+ </tr>
+</table

@@ -37,7 +37,7 @@ Python → SQL → R → Tableau → Git → MATLAB → Linux → CLI
  <a href="https://nyc-311-dashboard-6agf3rq3kqnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
  </p>
  <p>
- Why it matters: it helps people spot data quality issues quickly so operational decisions can be made with more confidence.
+ It helps people spot data quality issues quickly so operational decisions can be made with more confidence.
  </p>
  </td>
  </tr>
@@ -55,7 +55,7 @@ Python → SQL → R → Tableau → Git → MATLAB → Linux → CLI
  <a href="https://github.com/RossLohrisch/RossLohrisch/blob/main/Recidivism_Report.pdf">Project Report</a>
  </p>
  <p>
- Why it matters: it shows how data can support more informed rehabilitation and reentry decisions around a high-impact social problem.
+ It shows how data can support more informed rehabilitation and reentry decisions around a high-impact social problem.
  </p>
  </td>
  </tr>

@@ -36,9 +36,6 @@ Python → SQL → R → Tableau → Git → MATLAB → Linux → CLI
  <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ↗
  <a href="https://nyc-311-dashboard-6agf3rq3kqnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
  </p>
- <p>
- This project helps people spot data quality issues quickly so operational decisions can be made with more confidence.
- </p>
  </td>
  </tr>
 
@@ -53,9 +50,6 @@ Python → SQL → R → Tableau → Git → MATLAB → Linux → CLI
  </p>
  <p>
  <a href="https://github.com/RossLohrisch/RossLohrisch/blob/main/Recidivism_Report.pdf">Project Report</a>
- </p>
- <p>
- This one shows how data can support more informed rehabilitation and reentry decisions around a high-impact social problem.
  </p>
  </td>
  </tr>

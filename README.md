@@ -4,20 +4,20 @@ I’m an engineer with a background in systems engineering, frontend development
 
 I’m interested in work that makes complex information easier to understand and use, especially when it involves data, dashboards, or operational systems.
 
-## 🧭 What I work on
+## 👨‍💻 What I work on
 
 - analyzing operational and system-performance data
 - building dashboards and visual summaries
 - turning messy technical data into clear recommendations
 - working across technical and operational teams
 
-## 🛠️ Background
+## 🏛️ Background
 
 My experience includes systems engineering, performance analysis, frontend development, and working with technical data in complex environments.
 
-## 🧰 Tools I use often
+## 🛠️ Tools I use often
 
-Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
+Python → SQL → R → Tableau → Git → MATLAB → Linux → CLI
 
 ## ✨ Featured Projects
 
@@ -29,12 +29,15 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
  <td>
  <h3>NYC 311 Data Quality Dashboard</h3>
  <p>
- An interactive Streamlit dashboard that makes NYC 311 service requests easier to explore,
+ An interactive Streamlit dashboard that makes NYC 311 service request data easier to explore,
  understand, and trust.
  </p>
  <p>
- <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ·
- <a href="https://nyc-311-dashboard-6agf3rq3kcnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
+ <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ↗
+ <a href="https://nyc-311-dashboard-6agf3rq3kqnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
+ </p>
+ <p>
+ Why it matters: it helps people spot data quality issues quickly so operational decisions can be made with more confidence.
  </p>
  </td>
  </tr>
@@ -51,5 +54,9 @@ Python • SQL • R • Tableau • Git • MATLAB • Linux • CLI
  <p>
  <a href="https://github.com/RossLohrisch/RossLohrisch/blob/main/Recidivism_Report.pdf">Project Report</a>
  </p>
+ <p>
+ Why it matters: it shows how data can support more informed rehabilitation and reentry decisions around a high-impact social problem.
+ </p>
  </td>
-</tr>
+ </tr>
+</table>

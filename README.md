@@ -34,7 +34,7 @@ Python → SQL → R → Tableau → Git → MATLAB → Linux → CLI
  </p>
  <p>
  <a href="https://github.com/RossLohrisch/nyc-311-dashboard">GitHub Repo</a> ↗
- <a href="https://nyc-311-dashboard-6agf3rq3kqnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
+ <a href="https://nyc-311-dashboard-6agf3rq3kcnd3dhbnx2hwf.streamlit.app/">Live Demo</a>
  </p>
  </td>
  </tr>
